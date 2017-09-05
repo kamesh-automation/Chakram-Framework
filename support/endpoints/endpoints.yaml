@@ -1,0 +1,4 @@
+openAPI: 'http://httpbin.org'
+music: 'https://api.spotify.com'
+dweet: 'https://dweet.io/dweet'
+placeHolder: 'http://jsonplaceholder.typicode.com'

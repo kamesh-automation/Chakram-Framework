@@ -1,0 +1,5 @@
+{
+	"description": "test sending a string",
+	"sensorValue": 0.2222,
+	"alert": true
+	}
